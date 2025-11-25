@@ -10,10 +10,10 @@ Features:
 3) Automatically categorize and summarize expenses
 
 Calculate:
-  Total money spent
-  Remaining monthly budget
-  Remaining days in month
-  Recommended spending per day
+Total money spent
+Remaining monthly budget
+Remaining days in month
+Recommended spending per day
 Colorized CLI output for better readability
 
 Project Structure:
@@ -25,14 +25,14 @@ expense-tracker/
 
 
 Future Enhancements:
-  Edit / delete expense entries
-  Filter by date range
-  Export monthly report (PDF/Excel)
-  Graphical Dashboard (matplotlib / Power BI)
-  Web or Mobile UI
+Edit / delete expense entries
+Filter by date range
+Export monthly report (PDF/Excel)
+Graphical Dashboard (matplotlib / Power BI)
+Web or Mobile UI
 
 Contributing
-  Pull requests are welcome!
-  For major changes, please open an issue first to discuss what you would like to improve.
+Pull requests are welcome!
+For major changes, please open an issue first to discuss what you would like to improve.
 
 
